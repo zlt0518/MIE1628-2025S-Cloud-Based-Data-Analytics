@@ -1,4 +1,4 @@
-Installing Hadoop is the most difficult part this assignment!
+Installing Hadoop is the HARDEST part of this assignment!
 
 For this assignment, I do not recommend installing Hadoop on your local machine provided by instructor as it will take tons of time to firgure out useless version errors :(
 
