@@ -12,4 +12,4 @@ Docker Installation for windows: https://docs.docker.com/desktop/setup/install/w
 
 Setting up Hadoop with Docker and using MapReduce framework: https://medium.com/@guillermovc/setting-up-hadoop-with-docker-and-using-mapreduce-framework-c1cd125d4f7b
 
-The entire installation should take less than 20 min
+The entire installation should take less than 1 hr
