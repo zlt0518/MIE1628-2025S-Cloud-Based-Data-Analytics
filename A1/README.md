@@ -6,7 +6,7 @@ Relevent Links:
 
 Docker: https://www.docker.com/products/docker-desktop/
 
-Install Linux on Windows with WSL(Prerequisite for Docker using linux): https://learn.microsoft.com/en-us/windows/wsl/install
+Install Linux on Windows with WSL(Prerequisite for Docker using Windows): https://learn.microsoft.com/en-us/windows/wsl/install
 
 Docker Installation for windows: https://docs.docker.com/desktop/setup/install/windows-install/
 
