@@ -4,7 +4,8 @@ Installing Hadoop is the HARDEST part of this assignment even the hardest part o
 
 For this assignment, I do not recommend installing Hadoop on your local machine as per instructions provided by the instructor since it will take tons of time to firgure out useless version errors :(
 
-I suggest working on this assignmnet using docker(I am using Windows) with MapReduce and using Java instead of python as programming language( FYI: I could not manage to get python work on Docker...So do not waste time to try that LOL)
+If you use Windows, I suggest working on this assignmnet using docker with MapReduce and using Java instead of python as programming language 
+(FYI: I could not manage to get python work on Docker...So do not waste time to try that LOL)
 
 Relevent Links:
 
