@@ -1,4 +1,4 @@
-#MIE1628 A1 Suggestions
+# MIE1628 A1 Suggestions
 
 Installing Hadoop is the HARDEST part of this assignment even the hardest part of the entire course!
 
