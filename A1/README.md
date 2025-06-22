@@ -1,4 +1,4 @@
-# MIE1628 A1 Suggestions for Windows User
+# MIE1628 A1 Suggestions
 
 Installing Hadoop is the HARDEST part of this assignment even the hardest part of the entire course!
 
@@ -7,6 +7,7 @@ For this assignment, I do not recommend installing Hadoop on your local machine 
 If you use Windows, I suggest working on this assignmnet using docker with MapReduce and using Java instead of python as programming language 
 (FYI: I could not manage to get python work on Docker...So do not waste time to try that LOL)
 
+If you are a Mac user, I don’t have any specific suggestions, but there should be similar tutorials available.
 
 Relevent Links:
 
