@@ -9,8 +9,6 @@ For this assignment, I do not recommend installing Hadoop on your local machine 
 If you use Windows, I suggest working on this assignmnet using docker with MapReduce and using Java instead of python as programming language 
 (FYI: I could not manage to get python work on Docker...So do not waste time to try that LOL)
 
-If you are a Mac user, I don’t have any specific suggestions, but there should be similar tutorials available.
-
 Relevent Links:
 
 Docker: https://www.docker.com/products/docker-desktop/
@@ -22,5 +20,7 @@ Docker Installation for windows: https://docs.docker.com/desktop/setup/install/w
 Setting up Hadoop with Docker and using MapReduce framework: https://medium.com/@guillermovc/setting-up-hadoop-with-docker-and-using-mapreduce-framework-c1cd125d4f7b
 
 The entire installation should take less than 1 hr
+
+If you are a Mac user, I don’t have any specific suggestions, but there should be similar tutorials available.
 
 Enjoy~
