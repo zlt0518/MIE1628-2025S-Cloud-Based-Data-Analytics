@@ -1,4 +1,4 @@
-# MIE1628S Cloud-Based Data Analytics
+# MIE1628S-Cloud-Based-Data-Analytics
 
 MIE1628S Cloud-Based Data Analytics Assignment 2025 Summer Assignments at the University of Toronto taught by Prof.Sneha Sneha
 
