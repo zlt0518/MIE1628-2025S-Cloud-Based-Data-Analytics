@@ -6,8 +6,8 @@ Honestly, I feel like this assignment was intentionally designed to scare people
 
 For this assignment, I do not recommend installing Hadoop on your local machine as per instructions provided by the instructor since it will take tons of time to firgure out useless version errors :(
 
-If you use Windows, I suggest working on this assignmnet using docker with MapReduce and using Java instead of python as programming language 
-(FYI: I could not manage to get python work on Docker...So do not waste time to try that LOL)
+If you use Windows, I suggest working on this assignment using docker with MapReduce and using Java instead of Python as programming language 
+(FYI: I could not manage to get Python work on Docker after trying diffent methods for a few hours...So I do not suggest you to waste your time on that LOL)
 
 Relevent Links:
 
