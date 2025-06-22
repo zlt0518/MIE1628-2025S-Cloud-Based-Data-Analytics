@@ -2,8 +2,6 @@
 
 Installing Hadoop is arguably the HARDEST part of this assignment，and maybe even the hardest part of the entire course!
 
-Honestly, I feel like this assignment was intentionally designed to scare people away and make them drop the course...
-
 For this assignment, I do not recommend installing Hadoop on your local machine as per instructions provided by the instructor since it will take tons of time to firgure out useless version errors :(
 
 If you use Windows, I suggest working on this assignment using docker with MapReduce and using Java instead of Python as programming language 
@@ -24,3 +22,8 @@ The entire installation should take less than 1 hr
 If you are a Mac user, I don’t have any specific suggestions, but there should be similar tutorials available.
 
 Enjoy~
+
+
+
+PS
+- Honestly, I feel like this assignment was intentionally designed to scare people away and make them drop the course...
