@@ -19,7 +19,7 @@ Relevent Links:
 
 The entire installation should take less than 1 hr
 
-If you are a Mac user, I don’t have any specific suggestions, but there should be similar tutorials available.
+If you are a Mac/Linux user, I don’t have any specific suggestions, but there should be similar tutorials available.
 
 Enjoy～🫶
 
