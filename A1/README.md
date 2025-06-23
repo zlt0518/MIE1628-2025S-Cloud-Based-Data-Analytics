@@ -17,12 +17,11 @@ Relevent Links:
 
 - Setting up Hadoop with Docker and using MapReduce framework: https://medium.com/@guillermovc/setting-up-hadoop-with-docker-and-using-mapreduce-framework-c1cd125d4f7b
 
-The entire installation should take less than 1 hr
+The entire installation should take less than 1 hour and the setup is enough for the scope of this assignment.
 
 If you are a Mac/Linux user, I don’t have any specific suggestions, but there should be similar tutorials available.
 
-Enjoy～🫶
-
+Enjoy～🫶 
 
 
 
