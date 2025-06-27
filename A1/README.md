@@ -11,9 +11,9 @@ Relevent Links:
 
 - Docker: https://www.docker.com/products/docker-desktop/
 
-- Install Linux on Windows with WSL(Prerequisite for Docker using Windows): https://learn.microsoft.com/en-us/windows/wsl/install
+- Installation of Windows Subsystem for Linux (WSL) - Prerequisite for Docker using Windows: https://learn.microsoft.com/en-us/windows/wsl/install
 
-- Docker Installation for windows: https://docs.docker.com/desktop/setup/install/windows-install/
+- Docker Installation for Windows: https://docs.docker.com/desktop/setup/install/windows-install/
 
 - Setting up Hadoop with Docker and using MapReduce framework: https://medium.com/@guillermovc/setting-up-hadoop-with-docker-and-using-mapreduce-framework-c1cd125d4f7b
 
