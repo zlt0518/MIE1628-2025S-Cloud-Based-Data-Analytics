@@ -6,7 +6,7 @@ The repository contains all the source code and report for Assignments 1-5
 
 A1: 70/70
 
-A2: 
+A2: 90/100
 
 A3: 
 
