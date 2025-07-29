@@ -8,10 +8,10 @@ A1: 70/70
 
 A2: 90/100
 
-A3: 
+A3: 91/100
 
 A4: 
 
-A5
+A5:
 
 Please follow the academic integrity at the University of Toronto.
