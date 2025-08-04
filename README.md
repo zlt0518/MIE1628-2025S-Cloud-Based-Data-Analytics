@@ -2,9 +2,9 @@
 
 MIE1628S Cloud-Based Data Analytics Assignment 2025 Summer Assignments at the University of Toronto taught by Prof.Sneha Sneha
 
-The repository contains all the source code and report for Assignments 1-5
+The repository contains all the source code and reports for Assignments 1-5
 
-Asssignment 1-4 and 5 Part A are done by one student, and Assignmemy 5 Part B is done by two students
+Asssignment 1-4 and 5 Part A are written by one student, and Assignment 5 Part B is written by two students
 
 A1: 70/70
 
