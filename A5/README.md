@@ -1,4 +1,4 @@
-# MIE1628 A4 Suggestions
-Using Microsoft Azure is mandatory for this assignment.
+# MIE1628 A5 Suggestions
+Using Microsoft Azure for IoT and Machine Learning notebook is mandatory for this assignment.
 
-Part B of this assignment is done by a group of 2 students
+Note: Part B of this assignment is a mini project done by a group of 2 students
