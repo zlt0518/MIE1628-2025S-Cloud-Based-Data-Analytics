@@ -7,7 +7,7 @@ For this assignment, I do not recommend installing Hadoop on your local machine 
 If you use Windows, I suggest working on this assignment using docker with MapReduce and using Java instead of Python as programming language 
 (FYI: I could not manage to get Python work on Docker after trying multiple methods for a few hours...So I do not suggest you to waste your time on that LOL)
 
-Relevent Links:
+Relevent Links I found useful:
 
 - Docker: https://www.docker.com/products/docker-desktop/
 
