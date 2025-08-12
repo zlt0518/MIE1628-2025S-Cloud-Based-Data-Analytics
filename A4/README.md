@@ -5,7 +5,7 @@ I encountered some issues when loading original gender_jobs_distribution2.csv as
 
 **Feedback:**
 
-PartA Q4: didnot mention the conflict reultion for infinite loop, you should tell how to deal with conflicts and duplicates
+PartA Q4: didnot mention the conflict reultion for infinite loop, should tell how to deal with conflicts and duplicates
 
 PartB Q1: only occupation
 
