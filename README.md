@@ -11,4 +11,4 @@ A3: 91/100 \
 A4: 79/100 \
 A5: 85/100
 
-Please follow the academic integrity at the University of Toronto.
+**Please follow the academic integrity at the University of Toronto.**
