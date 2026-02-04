@@ -1,6 +1,6 @@
 # MIE1628 A1 Suggestions
 
-Installing Hadoop is arguably the **HARDEST** part of this assignment, and maybe even the hardest part of the entire course!
+Installing Hadoop is arguably the **HARDEST** part of this assignment, and maybe even the **HARDEST** part of the entire MIE1628 course!
 
 For this assignment, I do not recommend installing Hadoop on your local machine as per instructions provided by the instructor since it will take tons of time to firgure out useless version errors 🫠
 
@@ -26,4 +26,4 @@ Enjoy～🫶
 
 
 PS.
-Honestly, I feel like the difficulty of this assignment was intentionally designed to scare people away and make them drop the course😅
+Honestly speaking, I felt like the difficulty of this assignment was intentionally designed to weed people out😅
